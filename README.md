@@ -6,7 +6,7 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 
 - 🔭 I’m currently working on **Royal Profit S.L**
 - 🌱 I’m currently learning **Dart and Flutter**
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** or **Python**
 - 📫 How to reach me: **jdaza.her@gmail.com**
 - ⚡ Fun fact: **I started programming 5 years ago (I'm 20)**
 
