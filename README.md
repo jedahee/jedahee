@@ -5,8 +5,8 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 **About Me**
  
 - 🔭 I worked at **Royal Profit S.L** 
-- 🌱 I’m currently learning **C# .NET**
-- 💬 Ask me about **Web Development** or **Python**
+- 🌱 I’m currently learning **C# .NET** and mastering **Git**
+- 💬 Ask me about **Web Development**, **Python** or **C#**
 - 📫 How to reach me: **jdaza.her@gmail.com**
 - ⚡ Fun fact: **I started programming 5 years ago (I'm 20)**
 
