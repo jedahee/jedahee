@@ -3,8 +3,8 @@
 I am Jesús Daza, a web developer with a proven track record in the development technologies and information services sector.
 
 **About Me**
- 
-- 🔭 I worked at **Royal Profit S.L** 
+
+- 🔭 I am currently working on **Infortec Consultores** 
 - 🌱 I’m currently learning **C# .NET, Java (Springboot)** and mastering **Angular**
 - 💬 Ask me about **Web Development**, **Python**, **C#** or **Version control**
 - 📫 How to reach me: **jdaza.her@gmail.com**
