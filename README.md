@@ -4,11 +4,11 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 
 **About Me**
 
-- 🔭 I am currently working on **Infortec Consultores** 
-- 🌱 I’m currently learning **C# .NET, Java (Springboot)** and mastering **Angular**
+- 🔭 I am currently working on **Infortec Consultores SL** 
+- 🌱 I’m currently learning **Flutter, Dart** and mastering **Angular**
 - 💬 Ask me about **Web Development**, **Python**, **C#** or **Version control**
 - 📫 How to reach me: **jdaza.her@gmail.com**
-- ⚡ Fun fact: **I started programming 5 years ago (I'm 20)**
+- ⚡ Fun fact: **I started programming 6 years ago (I'm 21)**
 
 **Languages I have used**
 
@@ -22,6 +22,7 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
 
 **Some of the technologies I have worked with**
 
@@ -38,6 +39,5 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 ![Java Spring](https://img.shields.io/badge/-Springboot-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=WordPress)
-![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
