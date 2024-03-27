@@ -22,10 +22,10 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
 
 **Some of the technologies I have worked with**
 
+![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
@@ -41,3 +41,4 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=WordPress)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
+![Azure DevOps](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=azuredevops)
