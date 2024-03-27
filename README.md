@@ -41,4 +41,4 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=WordPress)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
-![Azure DevOps](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=azuredevops)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=azuredevops)
