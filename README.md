@@ -25,6 +25,7 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 
 **Some of the technologies I have worked with**
 
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=0769AD)
 ![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=Sass)
