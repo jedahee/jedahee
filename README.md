@@ -4,7 +4,8 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 
 **About Me**
 
-- 🔭 I am currently working on **Infortec Consultores SL** 
+- 🔭 I am currently working on **Invbit, Diseño y Desarrollo Web**
+- 👷 I worked for companies **Royal Profit SL** and **Infortec Consultores SL**
 - 🌱 I’m currently learning **Flutter, Dart** and mastering **Angular**
 - 💬 Ask me about **Web Development**, **Python**, **C#** or **Version control**
 - 📫 How to reach me: **jdaza.her@gmail.com**
