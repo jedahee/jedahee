@@ -4,8 +4,8 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 
 **About Me**
 
-- 🔭 I am currently working on **Invbit, Diseño y Desarrollo Web**
-- 👷 I worked for companies **Royal Profit SL** and **Infortec Consultores SL**
+- 🔭 I am currently working on **Solucionex, Consultoría y DESARROLLO web S.L**. 
+- 👷 I worked for companies **Royal Profit SL**, **Infortec Consultores SL** and **Invbit, Diseño y Desarrollo Web**. 
 - ⏲️ My work experience in web development is **3 years**.
 - 🌱 I’m currently learning **Flutter, Dart** and mastering **Angular**
 - 💬 Ask me about **Web Development**, **Python** or **Version control**
