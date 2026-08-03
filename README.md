@@ -10,7 +10,7 @@ I am Jesús Daza, a web developer with a proven track record in the development 
 - 🌱 I’m currently learning **Drupal, DDEV** and mastering **Docker**
 - 💬 Ask me about **Web Development**, **Python** or **Version control**
 - 📫 How to reach me: **jdaza.her@gmail.com**
-- ⚡ Fun fact: **I started programming 6 years ago (I'm 21)**
+- ⚡ Fun fact: **I started programming 8 years ago (I'm 23)**
 
 **Languages I have used**
 
